@@ -1,0 +1,17 @@
+.student-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.student-table th, .student-table td {
+    border: 20px solid red;
+    padding: 8px;
+    text-align: left;
+}
+.student-table th {
+    background-color: yellowgreen;
+}
+.student-table footer td {
+    background-color: yellowgreen;
+    text-align: right;
+    font-weight: bold;
+}

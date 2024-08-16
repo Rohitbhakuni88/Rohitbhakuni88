@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Table</title>
+<style>
+    
+    .student-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .student-table th, .student-table td {
+        border: 20px solid red;
+        padding: 8px;
+        text-align: left;
+    }
+    .student-table th {
+        background-color: yellowgreen;
+    }
+    .student-table footer td {
+        background-color: yellowgreen;
+        text-align: right;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+
+<h2 align="center">STUDENT TABLE</h2>
+
+<table class="student-table">
+    <header>
+        <tr>
+            <th><b>ID</b></th>
+            <th><b>Name</b></th>
+            <th><b>Department</b></th>
+            <th><b>Address</b></th>
+        </tr>
+    </header>
+    <body>
+        <tr>
+            <td>101</td>
+            <td>king</td>
+            <td>AIML</td>
+            <td>DELHI</td>
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>ravi</td>
+            <td>IoT</td>
+            <td>Greater Noida</td>
+        </tr>
+        <tr>
+            <td>103</td>
+            <td>rakhi</td>
+            <td>CSE</td>
+            <td>Bihar</td>
+        </tr>
+        <tr>
+            <td>104</td>
+            <td>rohit</td>
+            <td>MCA</td>
+            <td>Gaya</td>
+        </tr>
+        <tr>
+            <td>105</td>
+            <td>harkit</td>
+            <td>EEE</td>
+            <td>Kochi</td>
+        </tr>
+    </body>
+    <footer>
+        <tr>
+            <td colspan="4">Total student count: 5</td>
+        </tr>
+    </footer>
+</table>
+
+</body>
+</html>

@@ -1,45 +1,78 @@
-### 👋 Hi there! I'm Rohit Bhakuni (@Rohitbhakuni88)
+# 👋 Hey there, I'm Rohit Bhakuni
 
-💻 I'm a passionate developer with a love for building cool projects and constantly learning new technologies.
+**Software Development Engineer | Backend & Full-Stack Developer**  
+Passionate about solving real-world problems using scalable systems and clean code.
 
----
-
-### 🔭 I’m currently working on:
-- Personal portfolio with 3D interactive elements (shaders, particles)
-- Creative front-end projects using **React**, **Three.js**, and **Tailwind CSS**
-
-### 🌱 I’m currently learning:
-- WebGL / GLSL shaders for immersive visuals
-- Full-stack development with **Node.js** and **MongoDB**
-- Deployment pipelines & automation (CI/CD)
-
-### 👀 I’m interested in:
-- Creative coding & generative art
-- Game dev, simulations, and visual effects
-- Building polished user experiences
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rohitbhakuni/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/Rohitbhakuni88)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/Rohit8755)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&style=flat-square)](https://codeforces.com/profile/kingofworls)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&style=flat-square)](https://www.codechef.com/users/Rohitbhakuni79)
 
 ---
 
-### 📫 How to reach me:
-- 📧 [Email](mailto:rohitbhakuni88@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohitbhakuni88)
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(replace with your actual portfolio)*
+## 🚀 About Me
+
+- 🎓 Pursuing B.Tech in CSE @ NIET, Noida (Expected 2026)
+- 💻 Currently focused on **System Design**, **Spring Boot**, and **Cloud-native** apps
+- 🔍 Solving DSA problems regularly on **LeetCode**, **Codeforces**, and **CodeChef**
+- 🌐 Exploring **WebGL**, **React.js**, and **Dockerized backends**
 
 ---
 
-### 🛠️ Tech Stack:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+## 💼 Experience
+
+**AICTE-Edunet Internship** — *AI & Cloud Intern (July–Aug 2024)*  
+- Deployed AI models on **IBM Cloud**  
+- Delivered scalable apps in Agile teams
 
 ---
 
-### 📊 GitHub Stats
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitbhakuni88&show_icons=true&theme=github_dark)
+## 🛠️ Tech Stack
+
+**Languages:** Java, C++, Python, JavaScript, SQL  
+**Frameworks:** Spring Boot, React.js, REST APIs  
+**Tools:** Docker, Git, Postman, VS Code  
+**Concepts:** DSA, System Design (LLD + HLD), Microservices  
+**OS:** Linux, Windows, Kali Linux
 
 ---
 
-*Thanks for visiting my profile! Feel free to connect and collaborate 🤝*
+## 🔨 Featured Projects
+
+### 🧠 Interview Readify (Full Stack)  
+- ⚡️ REST API + Real-time DB = 99.9% uptime & 40% faster code assessment  
+- 🚀 Built with React + Spring Boot  
+- 💬 [GitHub Link](#) *(Add link here)*
+
+### 🎮 CP Guide Platform (Frontend)  
+- 🎯 Gamified platform with badges, points, leaderboard  
+- 📈 Boosted weekly active users by 30%  
+- 💬 [GitHub Link](#) *(Add link here)*
+
+---
+
+## 🏆 Achievements
+
+- 🥈 1500+ LeetCode rating  
+- 🧠 Solved 500+ problems on CodeChef & 200+ on Codeforces  
+- 💡 Rank 100–200 in CodeChef contests  
+- 📜 Multiple certifications in **System Design**, **Linux**, **Ethical Hacking**, etc.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [Rohitbhakuni797@gmail.com](mailto:Rohitbhakuni797@gmail.com)
+- 🌐 Portfolio: *(Add your portfolio link)*
+
+---
+
+## 📊 GitHub Stats
+
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitbhakuni88&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitbhakuni88&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
